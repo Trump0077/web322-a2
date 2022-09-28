@@ -1,0 +1,27 @@
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:aliceblue;
+}
+
+.navbar {
+    background-color:rgb(19, 2, 21);
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    color:yellowgreen;
+}
+
+.navbar-default .navbar-nav > li > a { 
+    color:azure;
+}
+
+.navbar-default .navbar-brand{
+    font-family: 'Bradley Hand', cursive;
+    color: rgb(3, 3, 140);
+    background-color: rgb(154, 102, 4);
+}
+
+h2 {
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    color: rgb(67, 3, 67);
+}
